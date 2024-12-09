@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m @jharifAparicio
+-   👋 Hi, I’m @jharifAparicio
 -   👀 I’m interested in c++, php, html, js and css
 -   🌱 I’m currently learning ...
 -   💞️ I’m looking to collaborate on ...
@@ -7,3 +6,10 @@
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ...
 
+<div style="color: white; display: flex; justify-items: center; border: 1px solid black; border-radius: 18px;">
+    <div style="background: #f7df1e; width: 32px; height: 20px; border-top-left-radius: 18px; border-bottom-left-radius: 18px;">
+    </div>
+    <div style=" display: flex; align-items: center; justify-content: center; width: 32px;">
+        Js
+    </div>
+</div>
