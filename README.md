@@ -1,5 +1,3 @@
-# Hi, I'm @jharifAparicio
-
 👋 Hi, I’m @jharifAparicio  
 👀 I’m interested in C++, PHP, HTML, JS, and CSS  
 🌱 I’m currently learning ...  
@@ -9,4 +7,4 @@
 ⚡ Fun fact: ...
 
 <!-- Cápsula estilizada con una combinación básica de HTML y CSS -->
-[![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
