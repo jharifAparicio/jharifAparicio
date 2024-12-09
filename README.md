@@ -7,7 +7,3 @@
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ...
 
-<a style="max-width: 181px;" class="js-org-filter-link f6 py-1 pr-2 pl-1 rounded-2 mr-2 mb-2 subnav-item css-truncate css-truncate-target " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.highlights_click&quot;,&quot;payload&quot;:{&quot;scoped_org_id&quot;:null,&quot;target_type&quot;:&quot;ORGANIZATION&quot;,&quot;target_url&quot;:&quot;/midudev?tab=overview&amp;org=jsconf&quot;,&quot;originating_url&quot;:&quot;https://github.com/midudev?action=show&amp;controller=profiles&amp;tab=contributions&amp;user_id=midudev&quot;,&quot;user_id&quot;:127452375}}" data-hydro-click-hmac="21275ad67d143393c204f80428db795786a30bffea240c27d4ff7389c968930a" data-hovercard-type="organization" data-hovercard-url="/orgs/jsconf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/midudev?tab=overview&amp;org=jsconf">
-          <img class="avatar mr-1" alt="" src="https://avatars.githubusercontent.com/u/1778284?s=40&amp;v=4" width="20" height="20">
-          Js
-</a>
