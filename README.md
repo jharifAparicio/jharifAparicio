@@ -9,9 +9,4 @@
 ⚡ Fun fact: ...
 
 <!-- Cápsula estilizada con una combinación básica de HTML y CSS -->
-<div style="display: flex; align-items: center; border: 1px solid black; border-radius: 18px; overflow: hidden; font-family: Arial, sans-serif;">
-    <div style="background: #f7df1e; width: 32px; height: 32px;"></div>
-    <div style="padding: 0 8px; font-size: 14px;">
-        JavaScript
-    </div>
-</div>
+[![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://developer.mozilla.org/es/docs/Web/JavaScript)
