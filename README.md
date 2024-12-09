@@ -11,4 +11,9 @@
 😄 Pronouns: Aparicio  
 ⚡ Fun fact: I enjoy exploring relatively new and interesting technologies.
 
-![[JavaScript](https://img.shields.io/badge/TS-TypeScript-blue)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JS-JavaScript-f7df1e)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TS-TypeScript-3178c6)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TS-TypeScript-3178c6)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TS-TypeScript-3178c6)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TS-TypeScript-3178c6)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TS-TypeScript-3178c6)](https://www.typescriptlang.org/)
