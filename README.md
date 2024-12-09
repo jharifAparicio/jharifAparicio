@@ -9,8 +9,6 @@
 - Gmail: [jharifnelsona@gmail.com](mailto:jharifnelsona@gmail.com)  
 
 😄 Pronouns: Aparicio  
-⚡ Fun fact: I enjoy exploring relatively new and interesting technologies.  
+⚡ Fun fact: I enjoy exploring relatively new and interesting technologies.
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="100" height="100">
-</a>
+![[JavaScript](javascript.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)
