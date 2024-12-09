@@ -8,3 +8,4 @@
 
 <!-- Cápsula estilizada con una combinación básica de HTML y CSS -->
 [![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="100" height="100">
